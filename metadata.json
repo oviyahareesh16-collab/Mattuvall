@@ -1,0 +1,6 @@
+{
+  "name": "Intrast RPG",
+  "description": "Retro turn-based RPG with pixel-art visuals, haptic combat feedback, hero progression, skill trees, and cloud save support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
